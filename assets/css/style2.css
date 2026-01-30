@@ -1,0 +1,35 @@
+/* Styles for the navbar */
+.navbar {
+  background-color: #6d213c;
+}
+
+.nav-logo {
+  max-width: 100px;
+  height: auto;
+}
+
+.nav a {
+  color: #dce1de;
+  font-weight: bold;
+}
+
+/* styles para el main */
+
+h1 {
+  color: #dce1de;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 40px;
+  background-color: #284b63;
+  padding: 20px;
+  margin-bottom: 0%;
+  border-radius: 5px;
+}
+
+/* Footer styles */
+footer {
+  background-color: #6d213c;
+  color: #dce1de;
+  text-align: center;
+  padding: 20px;
+}
