@@ -22,3 +22,4 @@ El proyecto consta de dos archivos HTML principales:
 
 ---
 Proyecto desarrollado como parte del curso de Introducción al Desarrollo Web.
+Contribución de Marcelo Mancilla para actividad Git/GitHub
